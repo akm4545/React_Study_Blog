@@ -9,7 +9,7 @@
 -->
 ## About
 <!--Wirte one paragraph of project description -->  
-This project is the gamification service for kid education.
+리액트 책 공부에 나오는 간단한 게시판용 블로그
 
 ## Overview
 
