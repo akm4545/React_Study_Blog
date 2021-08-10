@@ -1,10 +1,8 @@
-# [ Reading Oceans ]
+# [ React_Study_Blog ]
 ## Index
   - [Overview](#overview) 
   <!-- - [Getting Started](#getting-started) -->
   <!-- - [Contributing](#contributing) -->
-  - [Authors](#authors)
-  - [License](#license)
 <!--  Other options to write Readme
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
@@ -67,8 +65,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 -->
 ## Authors
-  <!-- - [INNOVATION-T](https://innovation-t.com) - **INNOVATION-T** - <innomainservice@gmail.com> -->
-- [INNOVATION-T](https://github.com/innovation-t) - **INNOVATION-T** - <innomainservice@gmail.com>
 <!-- 여기 참여한 개발자 계정명 / ( 링크 ) , 이름, -메일주소 -->
 * [akm4545](https://github.com/akm4545) - 조찬기 - akm4545@naver.com
 <!-- 
